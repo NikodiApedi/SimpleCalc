@@ -1,1 +1,1 @@
-only a simple calculator using html php
+only a simple calculator using php
